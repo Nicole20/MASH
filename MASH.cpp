@@ -36,7 +36,7 @@ int main()
 		mash.push_back(temp);
 	}
 
-	cout << "Enter four of your favorite one digit numbers." << endl;
+	cout << "Enter four of your favorite numbers." << endl;
 
 	for (int i = 0; i < 4; i++)
 	{
